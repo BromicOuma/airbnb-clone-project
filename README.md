@@ -13,7 +13,7 @@ By completing this project, we aim to:
 - Strengthen project documentation and planning skills.
 - Integrate Django, MySQL, and GraphQL in a unified tech ecosystem.
 
-## Tech Stack
+## Technology Stack
 - **Backend Framework:** Django
 - **Database:** MySQL
 - **API:** GraphQL
