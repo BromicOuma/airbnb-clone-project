@@ -6,7 +6,7 @@ The **Airbnb Clone Project** aims to develop a fullstack application that simula
 ## Problem Statement
 The short-term rental market continues to grow globally, creating opportunities for property monetization and convenient travel accommodations. This project addresses the need for a scalable, reliable web platform that facilitates these connections and transactions, simulating the successful Airbnb business model in a learning/development context
 
-## Team roles
+## Team Roles
 
 1. **Project Manager** - Oversees the entire project lifecycle, coordinates team activities, manages timeline and deliverables, communicates with stakeholders, and ensures project goals are met.
 
